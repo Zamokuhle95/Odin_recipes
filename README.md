@@ -1,1 +1,2 @@
 # Odin_recipes
+This is a recipe website project involves designing and building a static website using HTML. The website will provide a platform for users to browse and explore a variety of recipes. Each recipe will be presented with its title, ingredients, instructions, and possibly an accompanying image. The project focuses on creating an organized and visually appealing layout that effectively presents recipe information to users.
